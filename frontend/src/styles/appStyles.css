@@ -1,0 +1,9 @@
+.map-input-wrapper {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;  
+  }
+
+.container{
+    grid-template-columns: repeat(2, 1fr);  
+}

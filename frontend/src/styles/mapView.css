@@ -1,0 +1,15 @@
+.map-container {
+    height: 500px;
+    width: 50%;
+    border-radius: 30px;
+    border: none;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+    transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+  }
+
+.pollution-icon{
+    border: 2px solid rgb(0, 0, 0); /* Kenarlık */
+    border-radius: 50%;     /* Yuvarlak şekil */
+    opacity: 1;  
+    background-color: transparent;
+}
