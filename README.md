@@ -6,4 +6,5 @@ to build, run:
 ```
 npm run build
 ```
+inside frontend file.
 
